@@ -1,4 +1,4 @@
-- [DEMO LINK]('https://dima-bond.github.io/sw-test-app')
+- [DEMO LINK](https://dima-bond.github.io/sw-test-app)
 
 You need to create a simple web application which will use [The Star Wars API](https://swapi.dev/)
 1. Displaying all films on a single page
